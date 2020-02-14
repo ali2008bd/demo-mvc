@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "Second Commit"
+git config --global user.email "ali2008bd@gmail.com"
+git config --global user.name "ali2008bd"
+git remote add origin https://github.com/ali2008bd/demo-mvc.git
+git push origin master
+git clone https://github.com/ali2008bd/demo-mvc.git
